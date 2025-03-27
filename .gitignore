@@ -1,5 +1,19 @@
-# Created by https://www.toptal.com/developers/gitignore/api/node,jetbrains+all
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,jetbrains+all
+# Created by https://www.toptal.com/developers/gitignore/api/data,node,jetbrains+all
+# Edit at https://www.toptal.com/developers/gitignore?templates=data,node,jetbrains+all
+
+### Data ###
+*.csv
+*.dat
+*.efx
+*.gbr
+*.key
+*.pps
+*.ppt
+*.pptx
+*.sdf
+*.tax2010
+*.vcf
+*.xml
 
 ### JetBrains+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -229,4 +243,4 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
-# End of https://www.toptal.com/developers/gitignore/api/node,jetbrains+all
+# End of https://www.toptal.com/developers/gitignore/api/data,node,jetbrains+all
